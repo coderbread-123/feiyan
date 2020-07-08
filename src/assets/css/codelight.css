@@ -1,0 +1,28 @@
+
+.article_content img{
+    width: 100%;
+}
+.article_content h1{
+    font-size:30px;
+}
+.article_content h2{
+    font-size:28px;
+    border-bottom: 1px solid #cbcbcb;
+}
+.article_content h3{
+    font-size:24px;
+}
+.article_content pre{
+    display: block;
+    background-color: #283646;
+    padding: 5px;
+    border-radius: 5px;
+}
+.article_content pre>code{
+    color: #fff;
+}
+.article_content blockquote{
+    border-left:4px solid #cbcbcb ;
+    padding: 10px 10px 10px 30px; 
+    background-color: #f8f8f8;
+}
